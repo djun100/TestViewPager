@@ -21,6 +21,7 @@ public class MainActivity extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
     
+    //数据
     userList = new ArrayList<String>();
     
     //初始化一百个userName
