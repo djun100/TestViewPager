@@ -65,4 +65,5 @@ public class DemoAdapter extends PagerAdapter {
 
   @Override
   public void startUpdate(View container) {}
+  
 }
